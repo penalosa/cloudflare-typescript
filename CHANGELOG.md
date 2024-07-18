@@ -1,5 +1,49 @@
 # Changelog
 
+## 3.6.0 (2024-07-18)
+
+Full Changelog: [v3.5.0...v3.6.0](https://github.com/cloudflare/cloudflare-typescript/compare/v3.5.0...v3.6.0)
+
+### Features
+
+* **api:** OpenAPI spec update via Stainless API ([76c3d88](https://github.com/cloudflare/cloudflare-typescript/commit/76c3d88df315a1c6ad894d6f40675d9709029353))
+* **api:** OpenAPI spec update via Stainless API ([d3b9c2e](https://github.com/cloudflare/cloudflare-typescript/commit/d3b9c2ee7aa6f772bc4380e5e835c5841a0f8548))
+* **api:** OpenAPI spec update via Stainless API ([099f7c6](https://github.com/cloudflare/cloudflare-typescript/commit/099f7c6871c050044d8fee679e6645e526a58ae0))
+* **api:** OpenAPI spec update via Stainless API ([e37e400](https://github.com/cloudflare/cloudflare-typescript/commit/e37e400e5d5f65ece7cb56976c3e5f8753cfb4d0))
+* **api:** OpenAPI spec update via Stainless API ([adf18ea](https://github.com/cloudflare/cloudflare-typescript/commit/adf18ea3cbb2480ac8f4f6d7d9ac37e7d713af71))
+* **api:** OpenAPI spec update via Stainless API ([0bb36bb](https://github.com/cloudflare/cloudflare-typescript/commit/0bb36bb5fa661a432f3c467dc44c82e1821745d8))
+* **api:** OpenAPI spec update via Stainless API ([ee55636](https://github.com/cloudflare/cloudflare-typescript/commit/ee5563603d96fa610346c9866f82cd07b0706535))
+* **api:** OpenAPI spec update via Stainless API ([d0ba4b1](https://github.com/cloudflare/cloudflare-typescript/commit/d0ba4b1f025fb6da1e2e3d216d8e452d69d82674))
+* **api:** OpenAPI spec update via Stainless API ([05e65ab](https://github.com/cloudflare/cloudflare-typescript/commit/05e65ab7a3bc4ff7df34dab4a3e7e6c6a2451ab3))
+* **api:** OpenAPI spec update via Stainless API ([8559894](https://github.com/cloudflare/cloudflare-typescript/commit/855989474c99ec1cb20cf78c8b3c031bbcbdf31d))
+* **api:** OpenAPI spec update via Stainless API ([b6374a2](https://github.com/cloudflare/cloudflare-typescript/commit/b6374a255ff9cd37e6e00c49f848ab2bcf091715))
+* **api:** OpenAPI spec update via Stainless API ([76e1573](https://github.com/cloudflare/cloudflare-typescript/commit/76e15737bf683641991c27e593f264f0b6d268e3))
+* **api:** OpenAPI spec update via Stainless API ([7170950](https://github.com/cloudflare/cloudflare-typescript/commit/717095014425558e271b1e7d06ed9ad95887a38b))
+* **api:** OpenAPI spec update via Stainless API ([f0d999d](https://github.com/cloudflare/cloudflare-typescript/commit/f0d999dd93534bce1e5d74e847a9cb4796d017de))
+* **api:** OpenAPI spec update via Stainless API ([2346383](https://github.com/cloudflare/cloudflare-typescript/commit/234638362226d357107fda8c5a28fd059a4f3131))
+* **api:** OpenAPI spec update via Stainless API ([b89aa90](https://github.com/cloudflare/cloudflare-typescript/commit/b89aa9012d7ce03b9c6de5e430187687ff8926c7))
+* **api:** OpenAPI spec update via Stainless API ([7cd1628](https://github.com/cloudflare/cloudflare-typescript/commit/7cd1628980d36e04ed4d6fea6d2a3acbac704ee1))
+* **api:** OpenAPI spec update via Stainless API ([9d32cb5](https://github.com/cloudflare/cloudflare-typescript/commit/9d32cb52fb6eccb32754a15d32815c9c856ae8bd))
+* **api:** OpenAPI spec update via Stainless API ([cf9139c](https://github.com/cloudflare/cloudflare-typescript/commit/cf9139cc7be811c406bf041cca4d9b6b509a07c4))
+* **api:** OpenAPI spec update via Stainless API ([c863e23](https://github.com/cloudflare/cloudflare-typescript/commit/c863e2328617bdc7b90ecaf1d49e805b66a9ffa6))
+* **api:** OpenAPI spec update via Stainless API ([f210736](https://github.com/cloudflare/cloudflare-typescript/commit/f210736ef06fa47b7bccdc248d8172fb233e64bd))
+* **api:** OpenAPI spec update via Stainless API ([71813d2](https://github.com/cloudflare/cloudflare-typescript/commit/71813d2497fb4be2b8f044a25f63d310c1bc240b))
+* **api:** OpenAPI spec update via Stainless API ([e72cc91](https://github.com/cloudflare/cloudflare-typescript/commit/e72cc911ad78eb4fa00a160ec4a8a3cad69f0d47))
+* **api:** OpenAPI spec update via Stainless API ([e9c038e](https://github.com/cloudflare/cloudflare-typescript/commit/e9c038e795bd39d078ea7cf5f9326ff468749b42))
+* **api:** OpenAPI spec update via Stainless API ([b215073](https://github.com/cloudflare/cloudflare-typescript/commit/b21507357c4277231255ce8ea47c7bf8d7d50650))
+* **api:** OpenAPI spec update via Stainless API ([a7b739d](https://github.com/cloudflare/cloudflare-typescript/commit/a7b739dbf6133779b42dcf691f79859b4b82ac6f))
+* **api:** OpenAPI spec update via Stainless API ([#1147](https://github.com/cloudflare/cloudflare-typescript/issues/1147)) ([d2efc7e](https://github.com/cloudflare/cloudflare-typescript/commit/d2efc7e843a46e5d0737c4a1f0c5ba666a4104fb))
+* **api:** OpenAPI spec update via Stainless API ([#1148](https://github.com/cloudflare/cloudflare-typescript/issues/1148)) ([d0c58c7](https://github.com/cloudflare/cloudflare-typescript/commit/d0c58c7b1b4a5201681b202407cfe04d5f6ec1bb))
+* **api:** OpenAPI spec update via Stainless API ([#1150](https://github.com/cloudflare/cloudflare-typescript/issues/1150)) ([dd7a582](https://github.com/cloudflare/cloudflare-typescript/commit/dd7a582514757e68baf0c4712a40a178aaf88ac2))
+* **api:** update via SDK Studio ([#1146](https://github.com/cloudflare/cloudflare-typescript/issues/1146)) ([3ad1974](https://github.com/cloudflare/cloudflare-typescript/commit/3ad1974107c51cf5f29eaac6dd19b437839ee6b0))
+* **api:** update via SDK Studio ([#1149](https://github.com/cloudflare/cloudflare-typescript/issues/1149)) ([965ada5](https://github.com/cloudflare/cloudflare-typescript/commit/965ada548741516d3d000e24a3eab9dea4f58280))
+* **api:** update via SDK Studio ([#1151](https://github.com/cloudflare/cloudflare-typescript/issues/1151)) ([3c9e0fd](https://github.com/cloudflare/cloudflare-typescript/commit/3c9e0fdb2f2bf3ce1b36faecf3b515f5b35750fa))
+
+
+### Chores
+
+* **internal:** version bump ([#1144](https://github.com/cloudflare/cloudflare-typescript/issues/1144)) ([9f6aaa2](https://github.com/cloudflare/cloudflare-typescript/commit/9f6aaa202ad87f8a969b1ad2b9f74c1f1484b617))
+
 ## 3.5.0 (2024-07-16)
 
 Full Changelog: [v3.4.0...v3.5.0](https://github.com/cloudflare/cloudflare-typescript/compare/v3.4.0...v3.5.0)
